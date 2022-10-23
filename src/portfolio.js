@@ -23,9 +23,7 @@ const greeting = {
   username: "강정훈 (Junghoon Kang)",
   title: "안녕하세요, Data Scientist를 꿈꾸는 학생입니다",
   subTitle: emoji(
-      "저는 통계학과와 Data Science를 복수 전공 하였고 부전공으로는 수학과를 공부했습니다. R과 Python을 이용하여 머신러닝을 이용한 통계적 모델링에 관심을 가지고 있습니다"
-      "Passionate statistics and data science student interested in machine learning with statistical modeling using R and Python. Experienced handling and analytics the data in the Samsung SDS and developed leadership ability and communication skill through the experienced squad leader at Army.
-  ),
+      "저는 통계학과와 Data Science를 복수 전공 하였고 부전공으로는 수학과를 공부했습니다. R과 Python을 이용하여 머신러닝을 이용한 통계적 모델링에 관심을 가지고 있습니다" ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
