@@ -59,24 +59,24 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
     softwareSkills: [
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "R",
-      fontAwesomeClassname: "fab fa-r-project"
-    },
+        {
+          skillName: "python",
+          fontAwesomeClassname: "fab fa-python"
+        },
+        {
+          skillName: "R",
+          fontAwesomeClassname: "fab fa-r-project"
+        },
 
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
+        {
+          skillName: "sql-database",
+          fontAwesomeClassname: "fas fa-database"
+        },
     
-    {
-      skillName: "Salesforce CRM",
-      fontAwesomeClassname: "fas fa-salesforce"
-        }
+        {
+          skillName: "Salesforce CRM",
+          fontAwesomeClassname: "fas fa-salesforce"
+            }
   ],
   display: true // Set false to hide this section, defaults to true
 };
