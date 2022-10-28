@@ -58,26 +58,25 @@ const skillsSection = {
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
-  softwareSkills: [
+    softwareSkills: [
     {
-    skillName: "python",
-    fontAwesomeClassname: "fab fa-python"
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
-    skillName: "R",
-    fontAwesomeClassname: "fab fa-r-project"
+      skillName: "R",
+      fontAwesomeClassname: "fab fa-r-project"
     },
 
     {
-    skillName: "sql-database",
-    fontAwesomeClassname: "fas fa-database"
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
     },
     
     {
-    skillName: "Salesforce CRM",
-    fontAwesomeClassname: "fas fa-salesforce"
-    }
-
+      skillName: "Salesforce CRM",
+      fontAwesomeClassname: "fas fa-salesforce"
+        }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -108,11 +107,11 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-     Stack: "ML/Statistical modeling", //Insert stack or technology you have experience in
-     progressPercentage: "80%" //Insert relative proficiency in percentage
+      Stack: "ML/Statistical modeling", //Insert stack or technology you have experience in
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
-        Stack: "Data Analysis/visualization",
+      Stack: "Data Analysis/visualization",
       progressPercentage: "70%"
     },
     {
@@ -129,8 +128,8 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-          role: "Customer Relationship Management Analyst, Data Scientist",
-          company: "Daewoong Pharmaceuticals",
+      role: "Customer Relationship Management Analyst, Data Scientist",
+      company: "Daewoong Pharmaceuticals",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2018 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
