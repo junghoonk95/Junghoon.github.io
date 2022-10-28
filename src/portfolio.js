@@ -76,7 +76,7 @@ https://fontawesome.com/icons?d=gallery */
         {
           skillName: "Salesforce CRM",
           fontAwesomeClassname: "fas fa-salesforce"
-            }
+        }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -92,12 +92,8 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Statistics ",
       desc: "Bachelor of Science in Data Science ",
       duration: "September 2018 - May 2022",
-      descBullets: [
-        "Dean list 2021",
-        "Certificate in Mathematics"
-      ]
+      descBullets: ["Dean list 2021","Certificate in Mathematics"]
     }
-    
   ]
 };
 
